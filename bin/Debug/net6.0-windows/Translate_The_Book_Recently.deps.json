@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Translate_The_Book_Recently/1.0.0": {
+        "runtime": {
+          "Translate_The_Book_Recently.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Translate_The_Book_Recently/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

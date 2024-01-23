@@ -1,0 +1,17 @@
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\bin\Debug\net6.0-windows\Translate_The_Book_Recently.exe
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\bin\Debug\net6.0-windows\Translate_The_Book_Recently.deps.json
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\bin\Debug\net6.0-windows\Translate_The_Book_Recently.runtimeconfig.json
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\bin\Debug\net6.0-windows\Translate_The_Book_Recently.dll
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\bin\Debug\net6.0-windows\Translate_The_Book_Recently.pdb
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.csproj.AssemblyReference.cache
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.Form1.resources
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.csproj.GenerateResource.cache
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.AssemblyInfoInputs.cache
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.AssemblyInfo.cs
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.csproj.CoreCompileInputs.cache
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.dll
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\refint\Translate_The_Book_Recently.dll
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.pdb
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\Translate_The_Book_Recently.genruntimeconfig.cache
+D:\C# + unity\C#\Translate_The_Book_Recently\Translate_The_Book_Recently\obj\Debug\net6.0-windows\ref\Translate_The_Book_Recently.dll
